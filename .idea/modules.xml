@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ooxml-schema-encryption/ooxml-schema-encryption.iml" filepath="$PROJECT_DIR$/ooxml-schema-encryption/ooxml-schema-encryption.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ooxml-schemas/ooxml-schemas.iml" filepath="$PROJECT_DIR$/ooxml-schemas/ooxml-schemas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poi.iml" filepath="$PROJECT_DIR$/poi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poi-examples/poi-examples.iml" filepath="$PROJECT_DIR$/poi-examples/poi-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poi-excelant/poi-excelant.iml" filepath="$PROJECT_DIR$/poi-excelant/poi-excelant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poi-main/poi-main.iml" filepath="$PROJECT_DIR$/poi-main/poi-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poi-ooxml/poi-ooxml.iml" filepath="$PROJECT_DIR$/poi-ooxml/poi-ooxml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poi-ooxml-schemas/poi-ooxml-schemas.iml" filepath="$PROJECT_DIR$/poi-ooxml-schemas/poi-ooxml-schemas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poi-scratchpad/poi-scratchpad.iml" filepath="$PROJECT_DIR$/poi-scratchpad/poi-scratchpad.iml" />
+    </modules>
+  </component>
+</project>

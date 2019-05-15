@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.poi:poi-main:tests:3.11-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi-main/3.11-SNAPSHOT/poi-main-3.11-SNAPSHOT-tests.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi-main/3.11-SNAPSHOT/poi-main-3.11-SNAPSHOT-test-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi-main/3.11-SNAPSHOT/poi-main-3.11-SNAPSHOT-test-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

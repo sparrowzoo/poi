@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ooxml-schema-encryption" />
+        <module name="ooxml-schemas" />
+        <module name="poi-examples" />
+        <module name="poi-excelant" />
+        <module name="poi-main" />
+        <module name="poi-ooxml" />
+        <module name="poi-ooxml-schemas" />
+        <module name="poi-scratchpad" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ooxml-schema-encryption" target="1.8" />
+      <module name="ooxml-schemas" target="1.6" />
+      <module name="poi" target="1.6" />
+      <module name="poi-examples" target="1.6" />
+      <module name="poi-excelant" target="1.8" />
+      <module name="poi-main" target="1.8" />
+      <module name="poi-ooxml" target="1.6" />
+      <module name="poi-ooxml-schemas" target="1.6" />
+      <module name="poi-scratchpad" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
